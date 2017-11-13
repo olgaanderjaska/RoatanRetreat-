@@ -1,0 +1,122 @@
+
+ html {
+    position: relative;
+    min-height: 100%;
+    width: 100%;
+}  
+body {
+	width: 90%;
+	margin-left: 60px;
+	position: absolute;
+	background:#696969;
+}
+.header {
+	width: 100%;
+	text-align: center;
+    margin-bottom: 4em;
+    padding-bottom: 30px;
+    font-family: Georgia, serif;
+    text-shadow: 2px 2px #48d1cc;
+    color: #0000cd;
+    font-style: italic;
+}
+.links {
+	font-size: 1.0vw;
+    color: white;
+    position: absolute;
+    text-align: center;
+    top: 60px;
+    width: 100%;
+    text-shadow: 2px 2px #48d1cc;
+    padding-top: 20px;
+    color: #0000cd;
+}
+a {
+    padding-right: 40px;
+    font-size: 20px;
+    color: #0000cd;
+}
+h2 {
+	font-style: italic;
+    text-shadow: 2px 2px #48d1cc;
+    color: #0000cd;
+}
+.column1 {
+	width: 1150px;
+	text-indent: 30px;
+	position: absolute;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #f5deb3;
+}
+p {
+   padding-top:30px;
+   padding-bottom: 20px;
+   padding-right: 10px;
+   font-size: 1.2em;
+}
+
+img {
+   margin-top: 25px; 
+   float: left;
+   padding: 10px 10px 10px 10px;
+   margin-left: 90px;
+   border: 5px solid #f5deb3;
+}
+.img1 {   
+  background: inherit;
+  bottom: 0;
+  content: '';
+  display: block;
+  height: 350px;
+   left: 0;
+  position: absolute;
+  right: 0;
+  transform: skewY(-2.5deg);
+  transform-origin: 100%;
+  z-index: -1;
+  margin-left: 570px;
+
+}
+.img2 {   
+  background: inherit;
+  bottom: 0;
+  content: '';
+  display: block;
+  height: 350px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  transform: skewY(-2.5deg);
+  transform-origin: 100%;
+  z-index: -1;
+  margin-right: 530px;
+}
+.img3 {   
+  background: inherit;
+  bottom: 0;
+  content: '';
+  display: block;
+  height: 350px;
+  left: 0;
+  position: relative;
+  transform: skewY(-2.5deg);
+  transform-origin: 100%;
+  z-index: -1;
+  margin-left: 350px;
+  margin-bottom: 330px;
+
+}
+.footer {
+   position: relative;
+   bottom: 0;
+   top: 30px;
+   width:100%;
+   height:50px;
+   color: #0000cd; 
+   text-shadow: 1px 1px #48d1cc; 
+   text-align: center; 
+   padding-top: 100px;
+
+
+}
