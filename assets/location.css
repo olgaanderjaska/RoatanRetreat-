@@ -107,6 +107,11 @@ img {
   margin-bottom: 330px;
 
 }
+h6 {
+  font-size: 1.5em;
+  text-align: center;
+  padding-top: 20px;
+}
 .footer {
    position: relative;
    bottom: 0;
@@ -117,6 +122,4 @@ img {
    text-shadow: 1px 1px #48d1cc; 
    text-align: center; 
    padding-top: 100px;
-
-
 }

@@ -1,0 +1,74 @@
+* { 
+	padding:0;
+	margin:0;
+}
+body { 
+	font:100% normal Arial, Helvetica, sans-serif;
+}
+.header {
+	width: 100%;
+	text-align: center;
+    box-shadow: 5px 5px 5px #777777;
+    margin-bottom: 0em;
+    padding-bottom: 40px;
+    font-family: Georgia, serif;
+    text-shadow: 2px 2px gray;
+    font-style: italic;
+}
+.links {
+	font-size: 1.0vw;
+    color: white;
+    position: absolute;
+    text-align: center;
+    top: 60px;
+    width: 100%;
+    text-shadow: 1px 1px gray;
+    padding-top: 10px;
+}
+a {
+    padding-right: 40px;
+    font-size: 20px;
+}
+.rollover_img {
+    height: 470px;
+    background-position: top;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border:10px solid #ccc;
+    font:13px normal Arial, Helvetica, sans-serif;
+    line-height:18px;
+    margin: 10px 10px 30px 20px;
+    margin-top: 50px;
+}
+.img1 {
+   position: relative;
+}
+.vrboLink {
+	text-align: center;
+	padding-right: 7px;
+	padding-left: 6px;
+	color: black;
+	text-shadow: 2px 2px gray;
+}
+h4 {
+   position: absolute;
+   width: 450px;
+   padding-left: 25px;
+   margin-top: 30px;
+   top: 210px;
+   text-align: center;
+   line-height: 2.0em;
+   color: black;
+   text-shadow: 2px 2px gray;
+}
+p {
+	font-size: 1.5em;
+	text-align: center;
+	padding-top: 20px;
+}
+.footer {
+   position: relative;
+   width:100%;
+   color: #0000cd; 
+   text-shadow: 1px 1px #48d1cc; 
+}
