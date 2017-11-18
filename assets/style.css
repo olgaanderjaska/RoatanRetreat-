@@ -21,19 +21,19 @@ body {
     box-shadow-bottom: 0 0 10px #777777;
 }
 .flag {
-	width: 130px;
+	width: 140px;
 	height: 100px;
 	text-align: center;
 	background: white;
 	position: absolute;
-	margin-left: 580px;
+	margin-left: 600px;
 }
 .flag:after {
     content:'';
     position: absolute;
     bottom:-30px;
     left:0;
-    width:10px;
+    width:20px;
     height:0;
     border-bottom: 30px solid transparent;
     border-left: 60px solid white;
