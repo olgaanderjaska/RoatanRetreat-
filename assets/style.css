@@ -21,19 +21,19 @@ body {
     width: 1349px;
 }
 .flag {
-	width: 140px;
-	height: 100px;
+	width: 130px;
+	height: 110px;
 	text-align: center;
 	background: white;
 	position: absolute;
-	margin-left: 674px;
+	margin-left: 600px;
 }
 .flag:after {
     content:'';
     position: absolute;
     bottom:-30px;
     left:0;
-    width:20px;
+    width:10px;
     height:0;
     border-bottom: 30px solid transparent;
     border-left: 60px solid white;
