@@ -26,7 +26,7 @@ body {
 	text-align: center;
 	background: white;
 	position: absolute;
-	margin-left: 600px;
+	margin-left: 620px;
 }
 .flag:after {
     content:'';
@@ -53,7 +53,7 @@ h2 {
     color: white;
     position: absolute;
     text-align: center;
-    top: 140px;
+    top: 160px;
     width: 100%;
     text-shadow: 2px 2px gray;
 }
