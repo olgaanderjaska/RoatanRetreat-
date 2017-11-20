@@ -4,10 +4,10 @@ console.log(submitBtn);
 submitBtn.addEventListener("click", function(){
       alert("Your dates were successfully submited!");
  })
- var target = (" ");
+//  var target = (" ");
 
-function subForm() {
-	return(" ");
-}
-$("#subBtn").empty();
-console.log(" ");
+// function subForm() {
+// 	return(" ");
+// }
+// $("#subBtn").empty();
+// console.log(" ");

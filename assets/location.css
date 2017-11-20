@@ -5,41 +5,41 @@
     width: 100%;
 }  
 body {
-	width: 90%;
-	margin-left: 60px;
-	position: absolute;
-	background:#696969;
+	 width: 90%;
+	 margin-left: 60px;
+	 position: absolute;
+	 background:#696969;
 }
 .header {
-	width: 100%;
-	text-align: center;
+	  width: 100%;
+	  text-align: center;
     margin-bottom: 4em;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     font-family: Georgia, serif;
-    text-shadow: 2px 2px #48d1cc;
-    color: #0000cd;
+    text-shadow: 2px 2px #f5deb3;
+    color:#ff4500;
     font-style: italic;
 }
 .links {
-	font-size: 1.0vw;
+	  font-size: 1.0vw;
     color: white;
     position: absolute;
     text-align: center;
     top: 60px;
     width: 100%;
-    text-shadow: 2px 2px #48d1cc;
+    text-shadow: 2px 2px #f5deb3;
     padding-top: 20px;
-    color: #0000cd;
+    color: #ff4500;
 }
 a {
     padding-right: 40px;
     font-size: 20px;
-    color: #0000cd;
+    color: #ff7f50;
 }
 h2 {
-	font-style: italic;
-    text-shadow: 2px 2px #48d1cc;
-    color: #0000cd;
+	  font-style: italic;
+    text-shadow: 2px 2px  #f5deb3;
+    color: #ff4500;
 }
 .column1 {
 	width: 1150px;
@@ -49,9 +49,9 @@ h2 {
 	text-align: center;
 	color: #f5deb3;
 }
-p {
-   padding-top:30px;
-   padding-bottom: 20px;
+h5 {
+   padding-top: 50px;
+   padding-bottom: 40px;
    padding-right: 10px;
    font-size: 1.2em;
 }
@@ -69,7 +69,7 @@ img {
   content: '';
   display: block;
   height: 350px;
-   left: 0;
+  left: 0;
   position: absolute;
   right: 0;
   transform: skewY(-2.5deg);
@@ -104,22 +104,22 @@ img {
   transform-origin: 100%;
   z-index: -1;
   margin-left: 350px;
-  margin-bottom: 330px;
+  margin-bottom: 390px;
 
 }
-h5 {
-  font-size: 1.5em;
+p {
+  font-size: 1.0em;
   text-align: center;
-  padding-top: 20px;
+  padding-top: 60px;
 }
 .footer {
-   position: relative;
-   bottom: 0;
-   top: 30px;
-   width:100%;
-   height:50px;
-   color: #0000cd; 
-   text-shadow: 1px 1px #48d1cc; 
+   position: absolute;
+   top: 980px;
+   width: 100%;
+   height:100px;
+   color: #f5deb3; 
+   text-shadow: 1px 1px #ff4500; 
    text-align: center; 
-   padding-top: 100px;
+   padding-top: 15px;
+   padding-bottom: 20px; 
 }
